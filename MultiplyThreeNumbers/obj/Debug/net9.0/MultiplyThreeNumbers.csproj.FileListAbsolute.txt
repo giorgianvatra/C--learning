@@ -1,0 +1,15 @@
+/Users/giorgianvatra/Desktop/C#_projects/C--learning/MultiplyThreeNumbers/bin/Debug/net9.0/MultiplyThreeNumbers
+/Users/giorgianvatra/Desktop/C#_projects/C--learning/MultiplyThreeNumbers/bin/Debug/net9.0/MultiplyThreeNumbers.deps.json
+/Users/giorgianvatra/Desktop/C#_projects/C--learning/MultiplyThreeNumbers/bin/Debug/net9.0/MultiplyThreeNumbers.runtimeconfig.json
+/Users/giorgianvatra/Desktop/C#_projects/C--learning/MultiplyThreeNumbers/bin/Debug/net9.0/MultiplyThreeNumbers.dll
+/Users/giorgianvatra/Desktop/C#_projects/C--learning/MultiplyThreeNumbers/bin/Debug/net9.0/MultiplyThreeNumbers.pdb
+/Users/giorgianvatra/Desktop/C#_projects/C--learning/MultiplyThreeNumbers/obj/Debug/net9.0/MultiplyThreeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/giorgianvatra/Desktop/C#_projects/C--learning/MultiplyThreeNumbers/obj/Debug/net9.0/MultiplyThreeNumbers.AssemblyInfoInputs.cache
+/Users/giorgianvatra/Desktop/C#_projects/C--learning/MultiplyThreeNumbers/obj/Debug/net9.0/MultiplyThreeNumbers.AssemblyInfo.cs
+/Users/giorgianvatra/Desktop/C#_projects/C--learning/MultiplyThreeNumbers/obj/Debug/net9.0/MultiplyThreeNumbers.csproj.CoreCompileInputs.cache
+/Users/giorgianvatra/Desktop/C#_projects/C--learning/MultiplyThreeNumbers/obj/Debug/net9.0/MultiplyThreeNumbers.sourcelink.json
+/Users/giorgianvatra/Desktop/C#_projects/C--learning/MultiplyThreeNumbers/obj/Debug/net9.0/MultiplyThreeNumbers.dll
+/Users/giorgianvatra/Desktop/C#_projects/C--learning/MultiplyThreeNumbers/obj/Debug/net9.0/refint/MultiplyThreeNumbers.dll
+/Users/giorgianvatra/Desktop/C#_projects/C--learning/MultiplyThreeNumbers/obj/Debug/net9.0/MultiplyThreeNumbers.pdb
+/Users/giorgianvatra/Desktop/C#_projects/C--learning/MultiplyThreeNumbers/obj/Debug/net9.0/MultiplyThreeNumbers.genruntimeconfig.cache
+/Users/giorgianvatra/Desktop/C#_projects/C--learning/MultiplyThreeNumbers/obj/Debug/net9.0/ref/MultiplyThreeNumbers.dll

@@ -1,0 +1,15 @@
+/Users/giorgianvatra/Desktop/C#_projects/C--learning/SwapTwoVariables/bin/Debug/net9.0/SwapTwoVariables
+/Users/giorgianvatra/Desktop/C#_projects/C--learning/SwapTwoVariables/bin/Debug/net9.0/SwapTwoVariables.deps.json
+/Users/giorgianvatra/Desktop/C#_projects/C--learning/SwapTwoVariables/bin/Debug/net9.0/SwapTwoVariables.runtimeconfig.json
+/Users/giorgianvatra/Desktop/C#_projects/C--learning/SwapTwoVariables/bin/Debug/net9.0/SwapTwoVariables.dll
+/Users/giorgianvatra/Desktop/C#_projects/C--learning/SwapTwoVariables/bin/Debug/net9.0/SwapTwoVariables.pdb
+/Users/giorgianvatra/Desktop/C#_projects/C--learning/SwapTwoVariables/obj/Debug/net9.0/SwapTwoVariables.GeneratedMSBuildEditorConfig.editorconfig
+/Users/giorgianvatra/Desktop/C#_projects/C--learning/SwapTwoVariables/obj/Debug/net9.0/SwapTwoVariables.AssemblyInfoInputs.cache
+/Users/giorgianvatra/Desktop/C#_projects/C--learning/SwapTwoVariables/obj/Debug/net9.0/SwapTwoVariables.AssemblyInfo.cs
+/Users/giorgianvatra/Desktop/C#_projects/C--learning/SwapTwoVariables/obj/Debug/net9.0/SwapTwoVariables.csproj.CoreCompileInputs.cache
+/Users/giorgianvatra/Desktop/C#_projects/C--learning/SwapTwoVariables/obj/Debug/net9.0/SwapTwoVariables.sourcelink.json
+/Users/giorgianvatra/Desktop/C#_projects/C--learning/SwapTwoVariables/obj/Debug/net9.0/SwapTwoVariables.dll
+/Users/giorgianvatra/Desktop/C#_projects/C--learning/SwapTwoVariables/obj/Debug/net9.0/refint/SwapTwoVariables.dll
+/Users/giorgianvatra/Desktop/C#_projects/C--learning/SwapTwoVariables/obj/Debug/net9.0/SwapTwoVariables.pdb
+/Users/giorgianvatra/Desktop/C#_projects/C--learning/SwapTwoVariables/obj/Debug/net9.0/SwapTwoVariables.genruntimeconfig.cache
+/Users/giorgianvatra/Desktop/C#_projects/C--learning/SwapTwoVariables/obj/Debug/net9.0/ref/SwapTwoVariables.dll

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("sumOfTwonumbers")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eb0c22cb65ee6677a76c72716a5b20276237a2aa")]
 [assembly: System.Reflection.AssemblyProductAttribute("sumOfTwonumbers")]
 [assembly: System.Reflection.AssemblyTitleAttribute("sumOfTwonumbers")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,15 @@
+/Users/giorgianvatra/Desktop/C#_projects/C--learning/divisionOfTwo/divisionOfTwo/bin/Debug/net9.0/divisionOfTwo
+/Users/giorgianvatra/Desktop/C#_projects/C--learning/divisionOfTwo/divisionOfTwo/bin/Debug/net9.0/divisionOfTwo.deps.json
+/Users/giorgianvatra/Desktop/C#_projects/C--learning/divisionOfTwo/divisionOfTwo/bin/Debug/net9.0/divisionOfTwo.runtimeconfig.json
+/Users/giorgianvatra/Desktop/C#_projects/C--learning/divisionOfTwo/divisionOfTwo/bin/Debug/net9.0/divisionOfTwo.dll
+/Users/giorgianvatra/Desktop/C#_projects/C--learning/divisionOfTwo/divisionOfTwo/bin/Debug/net9.0/divisionOfTwo.pdb
+/Users/giorgianvatra/Desktop/C#_projects/C--learning/divisionOfTwo/divisionOfTwo/obj/Debug/net9.0/divisionOfTwo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/giorgianvatra/Desktop/C#_projects/C--learning/divisionOfTwo/divisionOfTwo/obj/Debug/net9.0/divisionOfTwo.AssemblyInfoInputs.cache
+/Users/giorgianvatra/Desktop/C#_projects/C--learning/divisionOfTwo/divisionOfTwo/obj/Debug/net9.0/divisionOfTwo.AssemblyInfo.cs
+/Users/giorgianvatra/Desktop/C#_projects/C--learning/divisionOfTwo/divisionOfTwo/obj/Debug/net9.0/divisionOfTwo.csproj.CoreCompileInputs.cache
+/Users/giorgianvatra/Desktop/C#_projects/C--learning/divisionOfTwo/divisionOfTwo/obj/Debug/net9.0/divisionOfTwo.sourcelink.json
+/Users/giorgianvatra/Desktop/C#_projects/C--learning/divisionOfTwo/divisionOfTwo/obj/Debug/net9.0/divisionOfTwo.dll
+/Users/giorgianvatra/Desktop/C#_projects/C--learning/divisionOfTwo/divisionOfTwo/obj/Debug/net9.0/refint/divisionOfTwo.dll
+/Users/giorgianvatra/Desktop/C#_projects/C--learning/divisionOfTwo/divisionOfTwo/obj/Debug/net9.0/divisionOfTwo.pdb
+/Users/giorgianvatra/Desktop/C#_projects/C--learning/divisionOfTwo/divisionOfTwo/obj/Debug/net9.0/divisionOfTwo.genruntimeconfig.cache
+/Users/giorgianvatra/Desktop/C#_projects/C--learning/divisionOfTwo/divisionOfTwo/obj/Debug/net9.0/ref/divisionOfTwo.dll

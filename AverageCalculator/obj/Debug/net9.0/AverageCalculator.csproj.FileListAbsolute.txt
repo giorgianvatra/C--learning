@@ -1,0 +1,15 @@
+/Users/giorgianvatra/Desktop/C#_projects/C--learning/AverageCalculator/bin/Debug/net9.0/AverageCalculator
+/Users/giorgianvatra/Desktop/C#_projects/C--learning/AverageCalculator/bin/Debug/net9.0/AverageCalculator.deps.json
+/Users/giorgianvatra/Desktop/C#_projects/C--learning/AverageCalculator/bin/Debug/net9.0/AverageCalculator.runtimeconfig.json
+/Users/giorgianvatra/Desktop/C#_projects/C--learning/AverageCalculator/bin/Debug/net9.0/AverageCalculator.dll
+/Users/giorgianvatra/Desktop/C#_projects/C--learning/AverageCalculator/bin/Debug/net9.0/AverageCalculator.pdb
+/Users/giorgianvatra/Desktop/C#_projects/C--learning/AverageCalculator/obj/Debug/net9.0/AverageCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/giorgianvatra/Desktop/C#_projects/C--learning/AverageCalculator/obj/Debug/net9.0/AverageCalculator.AssemblyInfoInputs.cache
+/Users/giorgianvatra/Desktop/C#_projects/C--learning/AverageCalculator/obj/Debug/net9.0/AverageCalculator.AssemblyInfo.cs
+/Users/giorgianvatra/Desktop/C#_projects/C--learning/AverageCalculator/obj/Debug/net9.0/AverageCalculator.csproj.CoreCompileInputs.cache
+/Users/giorgianvatra/Desktop/C#_projects/C--learning/AverageCalculator/obj/Debug/net9.0/AverageCalculator.sourcelink.json
+/Users/giorgianvatra/Desktop/C#_projects/C--learning/AverageCalculator/obj/Debug/net9.0/AverageCalculator.dll
+/Users/giorgianvatra/Desktop/C#_projects/C--learning/AverageCalculator/obj/Debug/net9.0/refint/AverageCalculator.dll
+/Users/giorgianvatra/Desktop/C#_projects/C--learning/AverageCalculator/obj/Debug/net9.0/AverageCalculator.pdb
+/Users/giorgianvatra/Desktop/C#_projects/C--learning/AverageCalculator/obj/Debug/net9.0/AverageCalculator.genruntimeconfig.cache
+/Users/giorgianvatra/Desktop/C#_projects/C--learning/AverageCalculator/obj/Debug/net9.0/ref/AverageCalculator.dll

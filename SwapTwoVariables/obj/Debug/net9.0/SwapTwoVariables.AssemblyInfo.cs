@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SwapTwoVariables")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b1816db08af5789aedf2b4a8a212df5bcba3d395")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e46c776628c4ff28983c8e8162d95f7c30ae1eac")]
 [assembly: System.Reflection.AssemblyProductAttribute("SwapTwoVariables")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SwapTwoVariables")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

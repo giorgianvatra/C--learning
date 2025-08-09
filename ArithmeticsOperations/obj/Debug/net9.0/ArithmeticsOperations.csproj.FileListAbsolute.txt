@@ -1,0 +1,15 @@
+/Users/giorgianvatra/Desktop/C#_projects/C--learning/ArithmeticsOperations/bin/Debug/net9.0/ArithmeticsOperations
+/Users/giorgianvatra/Desktop/C#_projects/C--learning/ArithmeticsOperations/bin/Debug/net9.0/ArithmeticsOperations.deps.json
+/Users/giorgianvatra/Desktop/C#_projects/C--learning/ArithmeticsOperations/bin/Debug/net9.0/ArithmeticsOperations.runtimeconfig.json
+/Users/giorgianvatra/Desktop/C#_projects/C--learning/ArithmeticsOperations/bin/Debug/net9.0/ArithmeticsOperations.dll
+/Users/giorgianvatra/Desktop/C#_projects/C--learning/ArithmeticsOperations/bin/Debug/net9.0/ArithmeticsOperations.pdb
+/Users/giorgianvatra/Desktop/C#_projects/C--learning/ArithmeticsOperations/obj/Debug/net9.0/ArithmeticsOperations.GeneratedMSBuildEditorConfig.editorconfig
+/Users/giorgianvatra/Desktop/C#_projects/C--learning/ArithmeticsOperations/obj/Debug/net9.0/ArithmeticsOperations.AssemblyInfoInputs.cache
+/Users/giorgianvatra/Desktop/C#_projects/C--learning/ArithmeticsOperations/obj/Debug/net9.0/ArithmeticsOperations.AssemblyInfo.cs
+/Users/giorgianvatra/Desktop/C#_projects/C--learning/ArithmeticsOperations/obj/Debug/net9.0/ArithmeticsOperations.csproj.CoreCompileInputs.cache
+/Users/giorgianvatra/Desktop/C#_projects/C--learning/ArithmeticsOperations/obj/Debug/net9.0/ArithmeticsOperations.sourcelink.json
+/Users/giorgianvatra/Desktop/C#_projects/C--learning/ArithmeticsOperations/obj/Debug/net9.0/ArithmeticsOperations.dll
+/Users/giorgianvatra/Desktop/C#_projects/C--learning/ArithmeticsOperations/obj/Debug/net9.0/refint/ArithmeticsOperations.dll
+/Users/giorgianvatra/Desktop/C#_projects/C--learning/ArithmeticsOperations/obj/Debug/net9.0/ArithmeticsOperations.pdb
+/Users/giorgianvatra/Desktop/C#_projects/C--learning/ArithmeticsOperations/obj/Debug/net9.0/ArithmeticsOperations.genruntimeconfig.cache
+/Users/giorgianvatra/Desktop/C#_projects/C--learning/ArithmeticsOperations/obj/Debug/net9.0/ref/ArithmeticsOperations.dll

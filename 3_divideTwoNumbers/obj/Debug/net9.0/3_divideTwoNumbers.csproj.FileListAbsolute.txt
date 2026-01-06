@@ -1,0 +1,15 @@
+/Users/giorgianvatra/Desktop/C#_projects/C# Basics/3_divideTwoNumbers/bin/Debug/net9.0/3_divideTwoNumbers
+/Users/giorgianvatra/Desktop/C#_projects/C# Basics/3_divideTwoNumbers/bin/Debug/net9.0/3_divideTwoNumbers.deps.json
+/Users/giorgianvatra/Desktop/C#_projects/C# Basics/3_divideTwoNumbers/bin/Debug/net9.0/3_divideTwoNumbers.runtimeconfig.json
+/Users/giorgianvatra/Desktop/C#_projects/C# Basics/3_divideTwoNumbers/bin/Debug/net9.0/3_divideTwoNumbers.dll
+/Users/giorgianvatra/Desktop/C#_projects/C# Basics/3_divideTwoNumbers/bin/Debug/net9.0/3_divideTwoNumbers.pdb
+/Users/giorgianvatra/Desktop/C#_projects/C# Basics/3_divideTwoNumbers/obj/Debug/net9.0/3_divideTwoNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/giorgianvatra/Desktop/C#_projects/C# Basics/3_divideTwoNumbers/obj/Debug/net9.0/3_divideTwoNumbers.AssemblyInfoInputs.cache
+/Users/giorgianvatra/Desktop/C#_projects/C# Basics/3_divideTwoNumbers/obj/Debug/net9.0/3_divideTwoNumbers.AssemblyInfo.cs
+/Users/giorgianvatra/Desktop/C#_projects/C# Basics/3_divideTwoNumbers/obj/Debug/net9.0/3_divideTwoNumbers.csproj.CoreCompileInputs.cache
+/Users/giorgianvatra/Desktop/C#_projects/C# Basics/3_divideTwoNumbers/obj/Debug/net9.0/3_divideTwoNumbers.sourcelink.json
+/Users/giorgianvatra/Desktop/C#_projects/C# Basics/3_divideTwoNumbers/obj/Debug/net9.0/3_divideTwoNumbers.dll
+/Users/giorgianvatra/Desktop/C#_projects/C# Basics/3_divideTwoNumbers/obj/Debug/net9.0/refint/3_divideTwoNumbers.dll
+/Users/giorgianvatra/Desktop/C#_projects/C# Basics/3_divideTwoNumbers/obj/Debug/net9.0/3_divideTwoNumbers.pdb
+/Users/giorgianvatra/Desktop/C#_projects/C# Basics/3_divideTwoNumbers/obj/Debug/net9.0/3_divideTwoNumbers.genruntimeconfig.cache
+/Users/giorgianvatra/Desktop/C#_projects/C# Basics/3_divideTwoNumbers/obj/Debug/net9.0/ref/3_divideTwoNumbers.dll

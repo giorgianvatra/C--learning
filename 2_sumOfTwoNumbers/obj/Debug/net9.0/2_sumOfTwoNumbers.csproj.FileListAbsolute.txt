@@ -1,0 +1,15 @@
+/Users/giorgianvatra/Desktop/C#_projects/C# Basics/2_sumOfTwoNumbers/bin/Debug/net9.0/2_sumOfTwoNumbers
+/Users/giorgianvatra/Desktop/C#_projects/C# Basics/2_sumOfTwoNumbers/bin/Debug/net9.0/2_sumOfTwoNumbers.deps.json
+/Users/giorgianvatra/Desktop/C#_projects/C# Basics/2_sumOfTwoNumbers/bin/Debug/net9.0/2_sumOfTwoNumbers.runtimeconfig.json
+/Users/giorgianvatra/Desktop/C#_projects/C# Basics/2_sumOfTwoNumbers/bin/Debug/net9.0/2_sumOfTwoNumbers.dll
+/Users/giorgianvatra/Desktop/C#_projects/C# Basics/2_sumOfTwoNumbers/bin/Debug/net9.0/2_sumOfTwoNumbers.pdb
+/Users/giorgianvatra/Desktop/C#_projects/C# Basics/2_sumOfTwoNumbers/obj/Debug/net9.0/2_sumOfTwoNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/giorgianvatra/Desktop/C#_projects/C# Basics/2_sumOfTwoNumbers/obj/Debug/net9.0/2_sumOfTwoNumbers.AssemblyInfoInputs.cache
+/Users/giorgianvatra/Desktop/C#_projects/C# Basics/2_sumOfTwoNumbers/obj/Debug/net9.0/2_sumOfTwoNumbers.AssemblyInfo.cs
+/Users/giorgianvatra/Desktop/C#_projects/C# Basics/2_sumOfTwoNumbers/obj/Debug/net9.0/2_sumOfTwoNumbers.csproj.CoreCompileInputs.cache
+/Users/giorgianvatra/Desktop/C#_projects/C# Basics/2_sumOfTwoNumbers/obj/Debug/net9.0/2_sumOfTwoNumbers.sourcelink.json
+/Users/giorgianvatra/Desktop/C#_projects/C# Basics/2_sumOfTwoNumbers/obj/Debug/net9.0/2_sumOfTwoNumbers.dll
+/Users/giorgianvatra/Desktop/C#_projects/C# Basics/2_sumOfTwoNumbers/obj/Debug/net9.0/refint/2_sumOfTwoNumbers.dll
+/Users/giorgianvatra/Desktop/C#_projects/C# Basics/2_sumOfTwoNumbers/obj/Debug/net9.0/2_sumOfTwoNumbers.pdb
+/Users/giorgianvatra/Desktop/C#_projects/C# Basics/2_sumOfTwoNumbers/obj/Debug/net9.0/2_sumOfTwoNumbers.genruntimeconfig.cache
+/Users/giorgianvatra/Desktop/C#_projects/C# Basics/2_sumOfTwoNumbers/obj/Debug/net9.0/ref/2_sumOfTwoNumbers.dll

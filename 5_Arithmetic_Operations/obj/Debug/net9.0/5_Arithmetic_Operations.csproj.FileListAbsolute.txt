@@ -1,0 +1,15 @@
+/Users/giorgianvatra/Desktop/C#_projects/C# Basics/5_Arithmetic_Operations/bin/Debug/net9.0/5_Arithmetic_Operations
+/Users/giorgianvatra/Desktop/C#_projects/C# Basics/5_Arithmetic_Operations/bin/Debug/net9.0/5_Arithmetic_Operations.deps.json
+/Users/giorgianvatra/Desktop/C#_projects/C# Basics/5_Arithmetic_Operations/bin/Debug/net9.0/5_Arithmetic_Operations.runtimeconfig.json
+/Users/giorgianvatra/Desktop/C#_projects/C# Basics/5_Arithmetic_Operations/bin/Debug/net9.0/5_Arithmetic_Operations.dll
+/Users/giorgianvatra/Desktop/C#_projects/C# Basics/5_Arithmetic_Operations/bin/Debug/net9.0/5_Arithmetic_Operations.pdb
+/Users/giorgianvatra/Desktop/C#_projects/C# Basics/5_Arithmetic_Operations/obj/Debug/net9.0/5_Arithmetic_Operations.GeneratedMSBuildEditorConfig.editorconfig
+/Users/giorgianvatra/Desktop/C#_projects/C# Basics/5_Arithmetic_Operations/obj/Debug/net9.0/5_Arithmetic_Operations.AssemblyInfoInputs.cache
+/Users/giorgianvatra/Desktop/C#_projects/C# Basics/5_Arithmetic_Operations/obj/Debug/net9.0/5_Arithmetic_Operations.AssemblyInfo.cs
+/Users/giorgianvatra/Desktop/C#_projects/C# Basics/5_Arithmetic_Operations/obj/Debug/net9.0/5_Arithmetic_Operations.csproj.CoreCompileInputs.cache
+/Users/giorgianvatra/Desktop/C#_projects/C# Basics/5_Arithmetic_Operations/obj/Debug/net9.0/5_Arithmetic_Operations.sourcelink.json
+/Users/giorgianvatra/Desktop/C#_projects/C# Basics/5_Arithmetic_Operations/obj/Debug/net9.0/5_Arithmetic_Operations.dll
+/Users/giorgianvatra/Desktop/C#_projects/C# Basics/5_Arithmetic_Operations/obj/Debug/net9.0/refint/5_Arithmetic_Operations.dll
+/Users/giorgianvatra/Desktop/C#_projects/C# Basics/5_Arithmetic_Operations/obj/Debug/net9.0/5_Arithmetic_Operations.pdb
+/Users/giorgianvatra/Desktop/C#_projects/C# Basics/5_Arithmetic_Operations/obj/Debug/net9.0/5_Arithmetic_Operations.genruntimeconfig.cache
+/Users/giorgianvatra/Desktop/C#_projects/C# Basics/5_Arithmetic_Operations/obj/Debug/net9.0/ref/5_Arithmetic_Operations.dll

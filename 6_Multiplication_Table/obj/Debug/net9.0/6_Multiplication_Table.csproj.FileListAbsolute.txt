@@ -1,0 +1,15 @@
+/Users/giorgianvatra/Desktop/C#_projects/C# Basics/6_Multiplication_Table/bin/Debug/net9.0/6_Multiplication_Table
+/Users/giorgianvatra/Desktop/C#_projects/C# Basics/6_Multiplication_Table/bin/Debug/net9.0/6_Multiplication_Table.deps.json
+/Users/giorgianvatra/Desktop/C#_projects/C# Basics/6_Multiplication_Table/bin/Debug/net9.0/6_Multiplication_Table.runtimeconfig.json
+/Users/giorgianvatra/Desktop/C#_projects/C# Basics/6_Multiplication_Table/bin/Debug/net9.0/6_Multiplication_Table.dll
+/Users/giorgianvatra/Desktop/C#_projects/C# Basics/6_Multiplication_Table/bin/Debug/net9.0/6_Multiplication_Table.pdb
+/Users/giorgianvatra/Desktop/C#_projects/C# Basics/6_Multiplication_Table/obj/Debug/net9.0/6_Multiplication_Table.GeneratedMSBuildEditorConfig.editorconfig
+/Users/giorgianvatra/Desktop/C#_projects/C# Basics/6_Multiplication_Table/obj/Debug/net9.0/6_Multiplication_Table.AssemblyInfoInputs.cache
+/Users/giorgianvatra/Desktop/C#_projects/C# Basics/6_Multiplication_Table/obj/Debug/net9.0/6_Multiplication_Table.AssemblyInfo.cs
+/Users/giorgianvatra/Desktop/C#_projects/C# Basics/6_Multiplication_Table/obj/Debug/net9.0/6_Multiplication_Table.csproj.CoreCompileInputs.cache
+/Users/giorgianvatra/Desktop/C#_projects/C# Basics/6_Multiplication_Table/obj/Debug/net9.0/6_Multiplication_Table.sourcelink.json
+/Users/giorgianvatra/Desktop/C#_projects/C# Basics/6_Multiplication_Table/obj/Debug/net9.0/6_Multiplication_Table.dll
+/Users/giorgianvatra/Desktop/C#_projects/C# Basics/6_Multiplication_Table/obj/Debug/net9.0/refint/6_Multiplication_Table.dll
+/Users/giorgianvatra/Desktop/C#_projects/C# Basics/6_Multiplication_Table/obj/Debug/net9.0/6_Multiplication_Table.pdb
+/Users/giorgianvatra/Desktop/C#_projects/C# Basics/6_Multiplication_Table/obj/Debug/net9.0/6_Multiplication_Table.genruntimeconfig.cache
+/Users/giorgianvatra/Desktop/C#_projects/C# Basics/6_Multiplication_Table/obj/Debug/net9.0/ref/6_Multiplication_Table.dll

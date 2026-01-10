@@ -1,0 +1,15 @@
+/Users/giorgianvatra/Desktop/C#_projects/C# Basics/7_Average_Of_Four_Numbers/bin/Debug/net9.0/7_Average_Of_Four_Numbers
+/Users/giorgianvatra/Desktop/C#_projects/C# Basics/7_Average_Of_Four_Numbers/bin/Debug/net9.0/7_Average_Of_Four_Numbers.deps.json
+/Users/giorgianvatra/Desktop/C#_projects/C# Basics/7_Average_Of_Four_Numbers/bin/Debug/net9.0/7_Average_Of_Four_Numbers.runtimeconfig.json
+/Users/giorgianvatra/Desktop/C#_projects/C# Basics/7_Average_Of_Four_Numbers/bin/Debug/net9.0/7_Average_Of_Four_Numbers.dll
+/Users/giorgianvatra/Desktop/C#_projects/C# Basics/7_Average_Of_Four_Numbers/bin/Debug/net9.0/7_Average_Of_Four_Numbers.pdb
+/Users/giorgianvatra/Desktop/C#_projects/C# Basics/7_Average_Of_Four_Numbers/obj/Debug/net9.0/7_Average_Of_Four_Numbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/giorgianvatra/Desktop/C#_projects/C# Basics/7_Average_Of_Four_Numbers/obj/Debug/net9.0/7_Average_Of_Four_Numbers.AssemblyInfoInputs.cache
+/Users/giorgianvatra/Desktop/C#_projects/C# Basics/7_Average_Of_Four_Numbers/obj/Debug/net9.0/7_Average_Of_Four_Numbers.AssemblyInfo.cs
+/Users/giorgianvatra/Desktop/C#_projects/C# Basics/7_Average_Of_Four_Numbers/obj/Debug/net9.0/7_Average_Of_Four_Numbers.csproj.CoreCompileInputs.cache
+/Users/giorgianvatra/Desktop/C#_projects/C# Basics/7_Average_Of_Four_Numbers/obj/Debug/net9.0/7_Average_Of_Four_Numbers.sourcelink.json
+/Users/giorgianvatra/Desktop/C#_projects/C# Basics/7_Average_Of_Four_Numbers/obj/Debug/net9.0/7_Average_Of_Four_Numbers.dll
+/Users/giorgianvatra/Desktop/C#_projects/C# Basics/7_Average_Of_Four_Numbers/obj/Debug/net9.0/refint/7_Average_Of_Four_Numbers.dll
+/Users/giorgianvatra/Desktop/C#_projects/C# Basics/7_Average_Of_Four_Numbers/obj/Debug/net9.0/7_Average_Of_Four_Numbers.pdb
+/Users/giorgianvatra/Desktop/C#_projects/C# Basics/7_Average_Of_Four_Numbers/obj/Debug/net9.0/7_Average_Of_Four_Numbers.genruntimeconfig.cache
+/Users/giorgianvatra/Desktop/C#_projects/C# Basics/7_Average_Of_Four_Numbers/obj/Debug/net9.0/ref/7_Average_Of_Four_Numbers.dll

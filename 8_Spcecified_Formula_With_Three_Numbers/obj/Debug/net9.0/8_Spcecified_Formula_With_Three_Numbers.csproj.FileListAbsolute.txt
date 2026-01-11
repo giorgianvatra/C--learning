@@ -1,0 +1,15 @@
+/Users/giorgianvatra/Desktop/C#_projects/C# Basics/8_Spcecified_Formula_With_Three_Numbers/bin/Debug/net9.0/8_Spcecified_Formula_With_Three_Numbers
+/Users/giorgianvatra/Desktop/C#_projects/C# Basics/8_Spcecified_Formula_With_Three_Numbers/bin/Debug/net9.0/8_Spcecified_Formula_With_Three_Numbers.deps.json
+/Users/giorgianvatra/Desktop/C#_projects/C# Basics/8_Spcecified_Formula_With_Three_Numbers/bin/Debug/net9.0/8_Spcecified_Formula_With_Three_Numbers.runtimeconfig.json
+/Users/giorgianvatra/Desktop/C#_projects/C# Basics/8_Spcecified_Formula_With_Three_Numbers/bin/Debug/net9.0/8_Spcecified_Formula_With_Three_Numbers.dll
+/Users/giorgianvatra/Desktop/C#_projects/C# Basics/8_Spcecified_Formula_With_Three_Numbers/bin/Debug/net9.0/8_Spcecified_Formula_With_Three_Numbers.pdb
+/Users/giorgianvatra/Desktop/C#_projects/C# Basics/8_Spcecified_Formula_With_Three_Numbers/obj/Debug/net9.0/8_Spcecified_Formula_With_Three_Numbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/giorgianvatra/Desktop/C#_projects/C# Basics/8_Spcecified_Formula_With_Three_Numbers/obj/Debug/net9.0/8_Spcecified_Formula_With_Three_Numbers.AssemblyInfoInputs.cache
+/Users/giorgianvatra/Desktop/C#_projects/C# Basics/8_Spcecified_Formula_With_Three_Numbers/obj/Debug/net9.0/8_Spcecified_Formula_With_Three_Numbers.AssemblyInfo.cs
+/Users/giorgianvatra/Desktop/C#_projects/C# Basics/8_Spcecified_Formula_With_Three_Numbers/obj/Debug/net9.0/8_Spcecified_Formula_With_Three_Numbers.csproj.CoreCompileInputs.cache
+/Users/giorgianvatra/Desktop/C#_projects/C# Basics/8_Spcecified_Formula_With_Three_Numbers/obj/Debug/net9.0/8_Spcecified_Formula_With_Three_Numbers.sourcelink.json
+/Users/giorgianvatra/Desktop/C#_projects/C# Basics/8_Spcecified_Formula_With_Three_Numbers/obj/Debug/net9.0/8_Spcecified_Formula_With_Three_Numbers.dll
+/Users/giorgianvatra/Desktop/C#_projects/C# Basics/8_Spcecified_Formula_With_Three_Numbers/obj/Debug/net9.0/refint/8_Spcecified_Formula_With_Three_Numbers.dll
+/Users/giorgianvatra/Desktop/C#_projects/C# Basics/8_Spcecified_Formula_With_Three_Numbers/obj/Debug/net9.0/8_Spcecified_Formula_With_Three_Numbers.pdb
+/Users/giorgianvatra/Desktop/C#_projects/C# Basics/8_Spcecified_Formula_With_Three_Numbers/obj/Debug/net9.0/8_Spcecified_Formula_With_Three_Numbers.genruntimeconfig.cache
+/Users/giorgianvatra/Desktop/C#_projects/C# Basics/8_Spcecified_Formula_With_Three_Numbers/obj/Debug/net9.0/ref/8_Spcecified_Formula_With_Three_Numbers.dll

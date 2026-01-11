@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "9_Repeat_Number_In_Rows/1.0.0": {
+        "runtime": {
+          "9_Repeat_Number_In_Rows.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "9_Repeat_Number_In_Rows/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

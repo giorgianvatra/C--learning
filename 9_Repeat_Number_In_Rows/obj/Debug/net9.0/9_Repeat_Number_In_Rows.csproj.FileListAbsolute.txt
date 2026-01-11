@@ -1,0 +1,15 @@
+/Users/giorgianvatra/Desktop/C#_projects/C# Basics/9_Repeat_Number_In_Rows/bin/Debug/net9.0/9_Repeat_Number_In_Rows
+/Users/giorgianvatra/Desktop/C#_projects/C# Basics/9_Repeat_Number_In_Rows/bin/Debug/net9.0/9_Repeat_Number_In_Rows.deps.json
+/Users/giorgianvatra/Desktop/C#_projects/C# Basics/9_Repeat_Number_In_Rows/bin/Debug/net9.0/9_Repeat_Number_In_Rows.runtimeconfig.json
+/Users/giorgianvatra/Desktop/C#_projects/C# Basics/9_Repeat_Number_In_Rows/bin/Debug/net9.0/9_Repeat_Number_In_Rows.dll
+/Users/giorgianvatra/Desktop/C#_projects/C# Basics/9_Repeat_Number_In_Rows/bin/Debug/net9.0/9_Repeat_Number_In_Rows.pdb
+/Users/giorgianvatra/Desktop/C#_projects/C# Basics/9_Repeat_Number_In_Rows/obj/Debug/net9.0/9_Repeat_Number_In_Rows.GeneratedMSBuildEditorConfig.editorconfig
+/Users/giorgianvatra/Desktop/C#_projects/C# Basics/9_Repeat_Number_In_Rows/obj/Debug/net9.0/9_Repeat_Number_In_Rows.AssemblyInfoInputs.cache
+/Users/giorgianvatra/Desktop/C#_projects/C# Basics/9_Repeat_Number_In_Rows/obj/Debug/net9.0/9_Repeat_Number_In_Rows.AssemblyInfo.cs
+/Users/giorgianvatra/Desktop/C#_projects/C# Basics/9_Repeat_Number_In_Rows/obj/Debug/net9.0/9_Repeat_Number_In_Rows.csproj.CoreCompileInputs.cache
+/Users/giorgianvatra/Desktop/C#_projects/C# Basics/9_Repeat_Number_In_Rows/obj/Debug/net9.0/9_Repeat_Number_In_Rows.sourcelink.json
+/Users/giorgianvatra/Desktop/C#_projects/C# Basics/9_Repeat_Number_In_Rows/obj/Debug/net9.0/9_Repeat_Number_In_Rows.dll
+/Users/giorgianvatra/Desktop/C#_projects/C# Basics/9_Repeat_Number_In_Rows/obj/Debug/net9.0/refint/9_Repeat_Number_In_Rows.dll
+/Users/giorgianvatra/Desktop/C#_projects/C# Basics/9_Repeat_Number_In_Rows/obj/Debug/net9.0/9_Repeat_Number_In_Rows.pdb
+/Users/giorgianvatra/Desktop/C#_projects/C# Basics/9_Repeat_Number_In_Rows/obj/Debug/net9.0/9_Repeat_Number_In_Rows.genruntimeconfig.cache
+/Users/giorgianvatra/Desktop/C#_projects/C# Basics/9_Repeat_Number_In_Rows/obj/Debug/net9.0/ref/9_Repeat_Number_In_Rows.dll

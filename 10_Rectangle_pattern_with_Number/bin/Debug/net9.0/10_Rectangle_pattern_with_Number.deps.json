@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "10_Rectangle_pattern_with_Number/1.0.0": {
+        "runtime": {
+          "10_Rectangle_pattern_with_Number.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "10_Rectangle_pattern_with_Number/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

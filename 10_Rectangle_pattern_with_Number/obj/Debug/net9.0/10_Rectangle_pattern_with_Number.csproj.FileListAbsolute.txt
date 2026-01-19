@@ -1,0 +1,15 @@
+/Users/giorgianvatra/Desktop/C#_projects/C# Basics/10_Rectangle_pattern_with_Number/obj/Debug/net9.0/10_Rectangle_pattern_with_Number.GeneratedMSBuildEditorConfig.editorconfig
+/Users/giorgianvatra/Desktop/C#_projects/C# Basics/10_Rectangle_pattern_with_Number/obj/Debug/net9.0/10_Rectangle_pattern_with_Number.AssemblyInfoInputs.cache
+/Users/giorgianvatra/Desktop/C#_projects/C# Basics/10_Rectangle_pattern_with_Number/obj/Debug/net9.0/10_Rectangle_pattern_with_Number.AssemblyInfo.cs
+/Users/giorgianvatra/Desktop/C#_projects/C# Basics/10_Rectangle_pattern_with_Number/obj/Debug/net9.0/10_Rectangle_pattern_with_Number.csproj.CoreCompileInputs.cache
+/Users/giorgianvatra/Desktop/C#_projects/C# Basics/10_Rectangle_pattern_with_Number/obj/Debug/net9.0/10_Rectangle_pattern_with_Number.sourcelink.json
+/Users/giorgianvatra/Desktop/C#_projects/C# Basics/10_Rectangle_pattern_with_Number/bin/Debug/net9.0/10_Rectangle_pattern_with_Number
+/Users/giorgianvatra/Desktop/C#_projects/C# Basics/10_Rectangle_pattern_with_Number/bin/Debug/net9.0/10_Rectangle_pattern_with_Number.deps.json
+/Users/giorgianvatra/Desktop/C#_projects/C# Basics/10_Rectangle_pattern_with_Number/bin/Debug/net9.0/10_Rectangle_pattern_with_Number.runtimeconfig.json
+/Users/giorgianvatra/Desktop/C#_projects/C# Basics/10_Rectangle_pattern_with_Number/bin/Debug/net9.0/10_Rectangle_pattern_with_Number.dll
+/Users/giorgianvatra/Desktop/C#_projects/C# Basics/10_Rectangle_pattern_with_Number/bin/Debug/net9.0/10_Rectangle_pattern_with_Number.pdb
+/Users/giorgianvatra/Desktop/C#_projects/C# Basics/10_Rectangle_pattern_with_Number/obj/Debug/net9.0/10_Rectangle_pattern_with_Number.dll
+/Users/giorgianvatra/Desktop/C#_projects/C# Basics/10_Rectangle_pattern_with_Number/obj/Debug/net9.0/refint/10_Rectangle_pattern_with_Number.dll
+/Users/giorgianvatra/Desktop/C#_projects/C# Basics/10_Rectangle_pattern_with_Number/obj/Debug/net9.0/10_Rectangle_pattern_with_Number.pdb
+/Users/giorgianvatra/Desktop/C#_projects/C# Basics/10_Rectangle_pattern_with_Number/obj/Debug/net9.0/10_Rectangle_pattern_with_Number.genruntimeconfig.cache
+/Users/giorgianvatra/Desktop/C#_projects/C# Basics/10_Rectangle_pattern_with_Number/obj/Debug/net9.0/ref/10_Rectangle_pattern_with_Number.dll
